@@ -1,4 +1,4 @@
-class CarsController < ApplicationController
+class CarsController < ProtectedController
   before_action :set_car, only: [:show, :update, :destroy]
 
   # GET /cars
