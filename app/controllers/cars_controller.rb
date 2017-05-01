@@ -42,6 +42,8 @@ class CarsController < ProtectedController
   # DELETE /cars/1
   def destroy
     @car.destroy
+
+    head :no_content
   end
 
   private
