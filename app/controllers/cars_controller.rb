@@ -3,7 +3,7 @@ class CarsController < ProtectedController
 
   # GET /cars
   def index
-    @cars = Car.all
+    @cars = current_user.cars
 
     render json: @cars
   end
