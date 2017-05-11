@@ -1,4 +1,4 @@
-#TOKEN='BAhJIiU5MzdjMThkZTE4YWNkYzgxZjliMTZmNjQxZTg5MzJmMAY6BkVG--1194c01333797f2943832ee73c1fcf7bb4673899' MAKE='make-test' MODEL='model-test' COLOR='color-test' sh scripts/cars-scripts/create_cars.sh
+#TOKEN='BAhJIiUwZDI2OTVmZjFhMjY4NTYxNDM3MDYyMDIzZjczNjA4YwY6BkVG--c03008e6c7f79e5872cef497c1367473d0a87561' MAKE='make-test' MODEL='model-test' COLOR='color-test' sh scripts/cars-scripts/create_cars.sh
 
 API="${API_ORIGIN:-http://localhost:4741}"
 URL_PATH="/cars"
