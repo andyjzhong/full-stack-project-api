@@ -6,12 +6,16 @@ This is the Ruby on Rails API for my Full Stack Project.
 
 ## URLs
 
-Front End Repo: https://github.com/andyjzhong/full-stack-project-client
-Back End Repo: https://github.com/andyjzhong/full-stack-project-api
-Deployed Front End Client: https://andyjzhong.github.io/full-stack-project-client/
-Heroku Site: https://whispering-springs-26931.herokuapp.com/
+-   Front End Repo: https://github.com/andyjzhong/full-stack-project-client
+-   Back End Repo: https://github.com/andyjzhong/full-stack-project-api
+-   Deployed Front End Client: https://andyjzhong.github.io/full-stack-project-client/
+-   Heroku Site: https://whispering-springs-26931.herokuapp.com/
 
-## ERD
+## Data Model
+
+This project contains two resources:
+-   Users
+-   Cars
 
 Link to ERD: http://imgur.com/a/LYElQ
 
